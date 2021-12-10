@@ -1,8 +1,0 @@
-12-10-2021
-Terry Partridge - 2021 React Conference
-
-I attended the 2021 React Conference on 12-10-2021, the link was `https://conf.reactjs.org/stage`. I was interested in attending this event because I wanted to get more information on the React 18 release. I have been reading about it since June 2021 and was interested in the updates to building accessible components.
-
-One of the breakout sessions during the conference was entitled "Building accessible components with React 18" and it was hosted by "Diego Haz". Diego went through an algorimithic exercise using a dropdown combo box to demonstrate the technical issues associated with allowing for accessible functionality. He demonstrated how most screen readers are not able to interact with these sorts of elements without considering for accesibility. Diego identified several helper tools and also identified using the "useDeferredValue" expression contained within React 18 to fully address the accesibility issues. He concluded the demonstration by invoking the "NVDA" screen reader and verifying the accessibility.
-
-I was not able to directly contact Diego during the conference. He did identify his twitter address and I sent him a tweet thanking him for the information he presented. I am not planning any further follow-up with Diego, but was very interested in the accessibility information he presented. My career focus is frontend development and accessibility is, in my opinion, an important piece of Internet-based user experiences. By attending this meetup, I was exposed to information and development tools that should have a positive impact on my ability to produce accessibile frontend solutions.
